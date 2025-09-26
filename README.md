@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+![Banner](https://raw.githubusercontent.com/its-meAsh/python/main/Banner.png)
 # Image to Audio Waveform
 
 This Python script converts a black-and-white image of a waveform into a `.wav` audio file. It works by analyzing the pixel data of an input image, smoothing the waveform, and then generating a sound file based on the refined shape.
